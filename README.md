@@ -10,7 +10,9 @@ about automation and motivated by the idea of a fully automated future.
 
 ## CONTACT
 +26656235015
+
 chomey17@gmail.com
+
 https://www.linkedin.com/in/chomey-dalitso-72459397
 
 ## Skills & Competence 
@@ -33,7 +35,7 @@ University of North West Business School
 2022
 
 
-###Bootcamp: Data Science
+### Bootcamp: Data Science
 HyperionDev
 2021
 
@@ -49,16 +51,24 @@ Machabeng International College
 ## WORK EXPERIENCE 
 ### Summary of Roles Held:
 •	CVM Acting Manager (February 2020 – June 2020)
+
 •	CVM Specialist (March 2015 – Current)
+
 •	Business Analyst (April 2017 – July 2017)
 
 ###PROFESSIONAL ATTRIBUTES
 
 •	Ability to work with stakeholders to assess potential risks.
+
 •	Ability to analyze existing tools and databases and provide software solution recommendations.
+
 •	Ability to translate business requirements into non-technical, lay terms.
+
 •	High-level experience in methodologies and processes for managing large-scale databases.
+
 •	Demonstrated experience in handling large data sets and relational databases.
+
 •	Understanding of addressing and metadata standards.
+
 •	High-level written and verbal communication skills.
 
