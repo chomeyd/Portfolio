@@ -1,3 +1,4 @@
+![IMG-20200302-WA0012](https://user-images.githubusercontent.com/87152819/132142213-ec1854fc-ade4-4507-8d32-ee858eb24ec6.jpg)
 # DALITSO CHOMEY
 ##### Insisghts and Analytics
 
