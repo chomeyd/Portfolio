@@ -17,10 +17,12 @@ https://www.linkedin.com/in/chomey-dalitso-72459397
 
 
 ## Skills & Competence 
+
 #### 1.	Interpersonal 
 	Highly analytical, quantitative and good judgement.
 	Good written and verbal communication skills.
 	Problem solver and an excellent team member.
+	
 #### 2.	Technical Skills 
 	Advanced Excel with in depth knowledge of pivot tables and charts for interactive dashboards.
 	Working knowledge in Python, R, VBA and Tableau.
