@@ -1,5 +1,5 @@
-# DALITSO CHOMEY
-### Insisghts and Analytics
+# DALITSO CHOMEY #### Insisghts and Analytics
+
 
 ## PROFESSIONAL PROFILE 
 An accomplished and dynamic insights and analytics specialist with over 6 years working experience. Throughout my 
@@ -27,25 +27,21 @@ https://www.linkedin.com/in/chomey-dalitso-72459397
 
 ## EDUCATION
 ### BCom Hons Financial Modelling (current)
-University of South Africa
-2022
+University of South Africa 2022
 
 ### Vodacom Achievers Program (8 Months)
-University of North West Business School
-2022
+University of North West Business School 2022
 
 
 ### Bootcamp: Data Science
-HyperionDev
-2021
+HyperionDev 2021
+
 
 ### B.Sc. Actuarial Science Degree
-University of the Free State
-2014
+University of the Free State 2014
 
 ### International Baccalaureate (IB) Diploma
-Machabeng International College
-2011
+Machabeng International College 2011
 
 
 ## WORK EXPERIENCE 
@@ -56,7 +52,7 @@ Machabeng International College
 
 •	Business Analyst (April 2017 – July 2017)
 
-###PROFESSIONAL ATTRIBUTES
+### PROFESSIONAL ATTRIBUTES
 
 •	Ability to work with stakeholders to assess potential risks.
 
