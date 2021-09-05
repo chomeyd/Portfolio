@@ -1,4 +1,5 @@
-# DALITSO CHOMEY #### Insisghts and Analytics
+# DALITSO CHOMEY 
+#### Insisghts and Analytics
 
 
 ## PROFESSIONAL PROFILE 
@@ -16,43 +17,43 @@ chomey17@gmail.com
 https://www.linkedin.com/in/chomey-dalitso-72459397
 
 ## Skills & Competence 
-### 1.	Interpersonal 
+#### 1.	Interpersonal 
 	Highly analytical, quantitative and good judgement.
 	Good written and verbal communication skills.
 	Problem solver and an excellent team member.
-### 2.	Technical Skills 
+#### 2.	Technical Skills 
 	Advanced Excel with in depth knowledge of pivot tables and charts for interactive dashboards.
 	Working knowledge in Python, R, VBA and Tableau.
 	Experienced in SQL.
 
 ## EDUCATION
-### BCom Hons Financial Modelling (current)
+#### BCom Hons Financial Modelling (current)
 University of South Africa 2022
 
-### Vodacom Achievers Program (8 Months)
+#### Vodacom Achievers Program (8 Months)
 University of North West Business School 2022
 
 
-### Bootcamp: Data Science
+#### Bootcamp: Data Science (6 Months)
 HyperionDev 2021
 
 
-### B.Sc. Actuarial Science Degree
+#### B.Sc. Actuarial Science Degree
 University of the Free State 2014
 
-### International Baccalaureate (IB) Diploma
+#### International Baccalaureate (IB) Diploma
 Machabeng International College 2011
 
 
 ## WORK EXPERIENCE 
-### Summary of Roles Held:
+#### Summary of Roles Held:
 •	CVM Acting Manager (February 2020 – June 2020)
 
 •	CVM Specialist (March 2015 – Current)
 
 •	Business Analyst (April 2017 – July 2017)
 
-### PROFESSIONAL ATTRIBUTES
+#### PROFESSIONAL ATTRIBUTES
 
 •	Ability to work with stakeholders to assess potential risks.
 
